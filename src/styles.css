@@ -20,7 +20,7 @@ body, input[type="text"], button {
     font-family: Cambria, Georgia, serif;
 }
 
-input[type="text"], input[type="email"] {
+input {
     border-top: none;
     border-right: none;
     border-left: none;
