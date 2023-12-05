@@ -22,3 +22,14 @@
     align-items: stretch;
     height: 1.8em;
 }
+
+.heroes button:hover {
+    color: #2c3a41;
+    background-color: #e6e6e6;
+    left: .1em;
+}
+
+.heroes button:active {
+    background-color: #525252;
+    color: #fafafa;
+}
